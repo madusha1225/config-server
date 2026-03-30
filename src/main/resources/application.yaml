@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/harsha200210/Project_Configuration.git
+          uri: https://github.com/madusha1225/Project-Configurations.git
           search-paths: platform,services
         native:
           search-locations:
